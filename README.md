@@ -16,6 +16,7 @@
 
 <h1>Do que se trata o projeto 60 Days?</h1>
 <div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciussidrim&repo=Project60days&theme=tokyonight">
 </div>
 
 
