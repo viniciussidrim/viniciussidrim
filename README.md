@@ -2,7 +2,6 @@
 
 <h1>Lista de projetos</h1>
 
-* Projeto 60 Dias <https://github.com/viniciussidrim/Project60days>
 * Projetos para Arduino <https://github.com/viniciussidrim/ProjetosArduino>
 * Projeto do período universitário <https://github.com/viniciussidrim/ProjetosFaculdade>
 * Projetos em JS <https://github.com/viniciussidrim/TesteEstudo>
