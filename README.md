@@ -6,6 +6,7 @@
 * Projeto do período universitário <https://github.com/viniciussidrim/ProjetosFaculdade>
 * Projetos em JS <https://github.com/viniciussidrim/TesteEstudo>
 * Projetos em Java <https://github.com/viniciussidrim/ProjetosJava>
+* Estudo em PHP <https://github.com/viniciussidrim/ProblemasEmPhp>
 
 <h1>Informações Gerais</h1>
 <div>
