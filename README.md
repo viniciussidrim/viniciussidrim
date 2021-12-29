@@ -2,10 +2,7 @@
 
 <h1>Lista de projetos</h1>
 
-* Projetos para Arduino <https://github.com/viniciussidrim/ProjetosArduino>
-* Projetos em JS <EM MANUTENÇÃO>
-* Projetos em Java <EM MANUTENÇÃO>
-* Estudo em PHP <https://github.com/viniciussidrim/ProblemasEmPhp>
+* Estudo em Segurança Ofensiva https://github.com/viniciussidrim/Seguranca_ofensiva.git>
 
 <h1>Informações Gerais</h1>
 <div>
