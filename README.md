@@ -2,7 +2,7 @@
 
 <h1>Lista de projetos</h1>
 
-* Estudo em Segurança Ofensiva https://github.com/viniciussidrim/Seguranca_ofensiva.git>
+* Estudo em Segurança Ofensiva <https://github.com/viniciussidrim/Seguranca_ofensiva.git>
 
 <h1>Informações Gerais</h1>
 <div>
