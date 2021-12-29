@@ -2,7 +2,9 @@
 
 <h1>Lista de projetos</h1>
 
+* Estudo em React <https://github.com/viniciussidrim/EstudoReact>
 * Estudo em Segurança Ofensiva <https://github.com/viniciussidrim/Seguranca_ofensiva.git>
+* Resolvendo Problemas em PHP <https://github.com/viniciussidrim/ProblemasEmPhp>
 
 <h1>Informações Gerais</h1>
 <div>
