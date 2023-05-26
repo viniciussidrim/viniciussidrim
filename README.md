@@ -3,10 +3,7 @@
 <h1>Projetos</h1>
 
 * Segurança Ofensiva <https://github.com/viniciussidrim/Seguranca_ofensiva.git>
-* Scripts em PHP <https://github.com/viniciussidrim/Scripts-PHP>
-* Docker <https://github.com/viniciussidrim/Docker>
-* C <https://github.com/viniciussidrim/C>
-* Arduino <https://github.com/viniciussidrim/Arduino>
+* Todos os projetos seguem em Repositórios Fechados
 
 <h1>Informações Gerais</h1>
 <div>
